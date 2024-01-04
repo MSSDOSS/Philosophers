@@ -1,4 +1,4 @@
-<h1 style="color:white; text-align:center">Philosophers</h1>
+<h1 style="color:white;text-align:center">Philosophers</h1>
 <h2 style="color:white; text-align:center">I never thought philosophy would be so deadly</h2>
 
 
