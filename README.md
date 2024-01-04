@@ -1,6 +1,6 @@
 <html>
-<h1 style="color:white; align:center">Philosophers</h1>
-<h2 style="color:white; align:center">I never thought philosophy would be so deadly</h2>
+<h1 align="center">Philosophers</h1>
+<h2 align="center">I never thought philosophy would be so deadly</h2>
 
 
 
